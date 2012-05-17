@@ -1,0 +1,4 @@
+- add proper snychronization for threads
+- add conversion to incoming stream (UTF-8 -> Unicode)
+- (maybe) add support for Widcomm BT adapters
+- implement proper volume handling? it sure looked like a real pain in the ass

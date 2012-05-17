@@ -1,0 +1,6 @@
+; PowerPoint.def : Declares the module parameters for the DLL.
+
+LIBRARY      "PowerPoint"
+
+EXPORTS
+    ; Explicit exports can go here
